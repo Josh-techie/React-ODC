@@ -1,21 +1,18 @@
-import Conditional from '../Dingdong' 
-import React, { useState } from 'react';
+import React from 'react';
+import Counter from '../counter';
+import Navbar from '../Navbar';
 
-
-
-function App() {
-  
-
+export default function MyApp() {
   return (
-
-    <>
-
-      <Conditional count={  3 }/>
-
-    </>
-
-    )
-  };
-
-
-export default App;
+    <div className="bg-blue-200">
+      <Navbar />
+      
+    
+     
+      <div className="container mx-auto p-4 ">
+        <h1 className="text-2xl font-bold ">Welcome to My App</h1>
+        <Counter />
+      </div>
+    </div>
+  );
+}
