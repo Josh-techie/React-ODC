@@ -42,10 +42,10 @@
 - Still the same old task yaaay 😁
 ### Task Deleted:
 
-- The order here in 
-* 1- Grocery
-* 2- Stretching
-![Alt text](image-12.png)
+- The order here is 
+1- Grocery
+2- Stretching
+![Alt text](image-14.png)
 
 - When Deleted the task 1 * Grocery note you count is self rendered and the now task * Stretching is number 1.
 
