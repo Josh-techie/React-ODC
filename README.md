@@ -30,7 +30,7 @@ To use this React To Do App, follow these steps:
 ![To Do App](Assets/Happy-Task-Managing.webp)
 
 ## About:
-- This is based on a 3 days course titled: ***React.js*** from Orange ODC
+- This is based on a 3 days course titled: ***ReactJS*** from Orange ODC
 
 ## Features
 
