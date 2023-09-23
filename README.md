@@ -13,12 +13,41 @@
 
 ### Add Task
 
-![Alt text](image-1.png)
+![Alt text](image-4.png)
+![Alt text](image-5.png)
 
 ### Task Completed:
 
-![Alt text](image-2.png)
+![Alt text](image-6.png)
 
+### Task Uncompleted:
+- Click Undo, or click on the radio button:
+![Alt text](image-7.png)
+
+### Task Edited:
+- Click on edit, and then:
+
+![Alt text](image-8.png)
+
+- Then you either save your edit, or cancel:
+- Let's save and see:
+![Alt text](image-9.png)
+
+- Let's edit and then cancel:
+![Alt text](image-10.png)
+
+- After cancel:
+![Alt text](image-11.png)
+
+- Still the same old task yaaay 😁
 ### Task Deleted:
 
-![Alt text](image-3.png)
+- The order here in 
+* 1- Grocery
+* 2- Stretching
+![Alt text](image-12.png)
+
+- When Deleted the task 1 * Grocery note you count is self rendered and the now task * Stretching is number 1.
+
+![Alt text](image-13.png)
+
