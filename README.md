@@ -47,10 +47,12 @@
 
 ![Alt text](Assets/image14.png)
 
-- When you delete the task 1 (*Grocery* note), the count is self-rendered and the now task (*Stretching*) is labeled as number 1.
+- When you delete the task 1 (*Grocery*), the count is self-rendered and the now task (*Stretching*) is labeled as number 1.
 
 ![Alt text](Assets/image-13.png)
 ## Author: 
 - Youssef Abouyahia: [Josh-techie](https://github.com/Josh-techie)
 
 ### See you next time, happy coding 😋
+
+![Alt text](Assets/React_logo.png)
