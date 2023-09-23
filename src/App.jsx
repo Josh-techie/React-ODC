@@ -126,13 +126,13 @@ function App() {
             <div className="flex items-center">
               <button
                 onClick={() => deleteTodo(todo.id)}
-                className="bg-red-500 text-white font-bold hover:scale-105 hover:bg-red-700 mr-2 rounded-lg"
+                className="px-2 py-1 bg-red-500 text-white font-bold hover:scale-105 hover:bg-red-700 mr-2 rounded-lg focus:outline-none"
               >
                 Delete
               </button>
               <button
                 onClick={() => editTodo(todo.id)}
-                className="px-2 py-1 bg-blue-500 text-white rounded-md hover:bg-blue-600 focus:outline-none font-bold rounded-lg mr-2"
+                className="px-2 py-1 bg-blue-500 text-white rounded-md hover:bg-blue-600 focus:outline-none font-bold mr-2"
               >
                 Edit
               </button>
