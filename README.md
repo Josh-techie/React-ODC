@@ -1,14 +1,55 @@
-# React + Vite
+# How to Use
+
+To use this React To Do App, follow these steps:
+
+1. **Clone the Repository**: Start by cloning this repository to your local machine using the following command:
+
+   ```bash
+   git clone https://github.com/Josh-techie/React-ODC
+   ```
+2. **Navigate to the Project Directory**: Move into the project directory:
+
+   ```bash
+   cd React-ODC
+   ```
+3. **Install Dependencies**: Make sure you have Node.js and npm (Node Package Manager) installed. Then, install the project dependencies:
+
+   ```bash
+   npm install
+   ```
+4. **Start Vite**: In the project directory, start Vite to launch the app:
+
+   ```bash
+   npm run dev
+   ```
+5. **View the App**: Open your web browser and visit http://localhost:3000 to view and use the To Do App.
+
+- That's it! You now have the To Do App up and running locally on your machine using Vite. You can add, complete, and manage your tasks easily using this intuitive app.
+
+### Happy task managing! 🎈
+
 ## About:
-- This is based on a course from Orange ODC
+- This is based on a 3days course titled: "(* React.js *)" from Orange ODC
 
+## Features
 
-## To Do App
+- **Add Tasks**: Easily add new tasks to your to-do list. Simply enter task descriptions in the input field and click "Add."
 
-- The To Do App is a simple and intuitive task management application designed to help users organize their daily tasks and activities efficiently. With its clean and user-friendly interface, this app enables users to create, track, and manage their to-do lists effortlessly
+- **Toggle Completion**: Check off completed tasks with a simple click, with a clear visual cue.
 
-### Main Page
-![Alt text](Assets/image.png)
+- **Delete Tasks**: Remove tasks effortlessly by hitting the "Delete" button.
+
+- **Task Count**: Always know how many tasks you have left to conquer.
+
+- **Visual Feedback**: Completed tasks stand out with a neat line-through effect.
+
+- **User-Friendly Design**: Enjoy a responsive and visually appealing interface for a smooth task management experience.
+
+The To Do App simplifies your daily tasks, from chores to work assignments, helping you conquer your day with ease.
+
+![To Do App](Assets/image.png)
+
+## Testing Features
 
 ### Add Task
 
