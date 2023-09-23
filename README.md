@@ -27,9 +27,10 @@ To use this React To Do App, follow these steps:
 - That's it! You now have the To Do App up and running locally on your machine using Vite. You can add, complete, and manage your tasks easily using this intuitive app.
 
 ### Happy task managing! 🎈
+![To Do App](Assets/Happy-Task-Managing.webp)
 
 ## About:
-- This is based on a 3days course titled: "(* React.js *)" from Orange ODC
+- This is based on a 3 days course titled: ***React.js*** from Orange ODC
 
 ## Features
 
