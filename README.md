@@ -1,8 +1,7 @@
 # React + Vite
 ## About:
 - This is based on a course from Orange ODC
-## Author: 
-- Youssef Abouyahia: [Josh-techie](https://github.com/Josh-techie)
+
 
 ## To Do App
 
@@ -42,12 +41,16 @@
 - Still the same old task yaaay 😁
 ### Task Deleted:
 
-- The order here is 
-1- Grocery
-2- Stretching
-![Alt text](Assets/image-14.png)
+- The order here is: 
+  1. Grocery
+  2. Stretching
 
-- When Deleted the task 1 * Grocery note you count is self rendered and the now task * Stretching is number 1.
+![Alt text](Assets/image14.png)
+
+- When you delete the task 1 (*Grocery* note), the count is self-rendered and the now task (*Stretching*) is labeled as number 1.
 
 ![Alt text](Assets/image-13.png)
+## Author: 
+- Youssef Abouyahia: [Josh-techie](https://github.com/Josh-techie)
 
+### See you next time, happy coding 😋
