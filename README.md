@@ -63,6 +63,7 @@ The To Do App simplifies your daily tasks, from chores to work assignments, help
 
 ### Task Uncompleted:
 - Click Undo, or click on the radio button:
+
 ![Alt text](Assets/image-7.png)
 
 ### Task Edited:
@@ -72,26 +73,30 @@ The To Do App simplifies your daily tasks, from chores to work assignments, help
 
 - Then you either save your edit, or cancel:
 - Let's save and see:
+
 ![Alt text](Assets/image-9.png)
 
 - Let's edit and then cancel:
+
 ![Alt text](Assets/image-10.png)
 
 - After cancel:
+
 ![Alt text](Assets/image-11.png)
 
 - Still the same old task yaaay 😁
 ### Task Deleted:
 
-- The order here is: 
-  1. Grocery
-  2. Stretching
+- **The order here is:** 
+  - 1. Grocery
+  - 2. Stretching
 
 ![Alt text](Assets/image14.png)
 
 - When you delete the task 1 (*Grocery*), the count is self-rendered and the now task (*Stretching*) is labeled as number 1.
 
 ![Alt text](Assets/image-13.png)
+
 ## Author: 
 - Youssef Abouyahia: [Josh-techie](https://github.com/Josh-techie)
 
